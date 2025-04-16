@@ -1,4 +1,4 @@
-<h2 align="center">Miguel Pelegrina 👋</h2>
+<h2 align="center"> 👋 Hi, I am Miguel Pelegrina </h2>
 
 <p align="center">
   Full-stack developer | Java & Angular | Spring Boot | Docker | CI/CD Enthusiast
@@ -9,7 +9,7 @@
 ### 📄 CV & Contact
 
 **📬 Contact**: [LinkedIn](https://www.linkedin.com/in/miguel-pelegrina/) 
-**📄 CV**: [Español](https://github.com/MiguelPelegrina/MiguelPelegrina/blob/main/cv_es.pdf?raw=true) | [English](https://github.com/MiguelPelegrina/MiguelPelegrina/blob/main/cv_en.pdf?raw=true) | [Deutsch](https://github.com/MiguelPelegrina/MiguelPelegrina/blob/main/cv_de.pdf?raw=true)
+**📄 CV**: [Español](https://github.com/MiguelPelegrina/MiguelPelegrina/blob/main/cv_es.pdf) | [English](https://github.com/MiguelPelegrina/MiguelPelegrina/blob/main/cv_en.pdf) | [Deutsch](https://github.com/MiguelPelegrina/MiguelPelegrina/blob/main/cv_de.pdf)
 
 ### 🚀 Notable Projects
 
@@ -38,20 +38,10 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 
 #### APIs
-![REST API](https://img.shields.io/badge/-REST%20API-61DAFB?logo=api&logoColor=white)
-![HTTP](https://img.shields.io/badge/-HTTP/REST-FF6F00?logo=protocols&logoColor=white)
-![API](https://img.shields.io/badge/-API-4CAF50?logo=swagger&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
+![HTTP](https://img.shields.io/badge/-API-4CAF50?logo=swagger&logoColor=white)
+<!-- ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)-->
 
 ---
-
-<!-- TODO Implement 
-- **Chat App**
-- **Tools**
-  - Used
-  - Want to learn
-- CVs
--->
 
 ### 🌱 I’m currently learning
   - GraphQL and Weblflux in a chat app
@@ -62,3 +52,11 @@
   - Best practices and additonal technologies by refactoring my existing e-commerce
     - [Frontend](https://github.com/MiguelPelegrina/java_school_online_store_frontend) 
     - [Backend](https://github.com/MiguelPelegrina/java_school_online_store_api)
+   
+
+<!-- TODO Implement 
+- Chat App documentation
+- More specific tools
+  - Used
+  - Want to learn
+-->
