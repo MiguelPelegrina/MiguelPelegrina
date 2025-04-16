@@ -8,8 +8,8 @@
 
 ### 📄 CV & Contact
 
-**📬 Contact**: [LinkedIn](https://www.linkedin.com/in/miguel-pelegrina/)  
-**📄 CV**: **CV:** [Español](link1.pdf) | [English](link2.pdf) | [Deutsch](link3.pdf)
+**📬 Contact**: [LinkedIn](https://www.linkedin.com/in/miguel-pelegrina/) 
+**📄 CV**: [Español](https://github.com/MiguelPelegrina/MiguelPelegrina/blob/main/cv_es.pdf?raw=true) | [English](https://github.com/MiguelPelegrina/MiguelPelegrina/blob/main/cv_en.pdf?raw=true) | [Deutsch](https://github.com/MiguelPelegrina/MiguelPelegrina/blob/main/cv_de.pdf?raw=true)
 
 ### 🚀 Notable Projects
 
@@ -23,7 +23,7 @@
 
 #### Languages
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 
 #### Frameworks
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
@@ -37,7 +37,10 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 
-
+#### APIs
+![REST API](https://img.shields.io/badge/-REST%20API-61DAFB?logo=api&logoColor=white)
+![HTTP](https://img.shields.io/badge/-HTTP/REST-FF6F00?logo=protocols&logoColor=white)
+![API](https://img.shields.io/badge/-API-4CAF50?logo=swagger&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
 
 ---
