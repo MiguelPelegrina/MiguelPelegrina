@@ -38,7 +38,7 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 
 #### APIs
-![HTTP](https://img.shields.io/badge/-API-4CAF50?logo=swagger&logoColor=white)
+![REST](https://img.shields.io/badge/-HTTP/REST-FF6F00?logo=protocols&logoColor=white)
 <!-- ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)-->
 
 ---
