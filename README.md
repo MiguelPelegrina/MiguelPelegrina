@@ -2,7 +2,7 @@
 
 full-stack developer with experience in Java, Angular, Spring Boot, Docker and more.
 
-### 🚀 Proyectos destacados
+### 🚀 Notable projects
 
 🛒 **E-commerce Java + Angular**
 - [Documentation](https://miguelpelegrina.github.io/java_school_online_store_documentation/)
